@@ -2,7 +2,7 @@
 
 A simple React example using a Nodejs backend with Socket.io Connection. And TailwindCSS for the styles
 
-![](./docs/screenshot.jpg)
+![](./docs/screenshot.png)
 
 ## Tools
 
